@@ -14,7 +14,7 @@ Contruindo redes de interação ecológica utilizando o CarniDIET (version 1.0),
 
 # Vamos construir uma rede de interação bipartida. 
 
-<img src="https://github.com/fblpalmeira/GEEQ/blob/main/data/plotweb_carnidiet.png">
+<img src="https://github.com/fblpalmeira/GEEQ/blob/main/data/carnidiet_bipartite.png">
 
 # Também vamos construir uma rede de interação em forma de grid e, se der tempo, aprender a inserir as silhuetas dos animais :)
 
