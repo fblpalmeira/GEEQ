@@ -1,4 +1,6 @@
-# GEEQ
+# GEEQ - Grupo de Estudos em Ecologia Quantitativa
+
+## Workshop "Construindo redes de interações no R", dia 17/05/2022 das 19h00 às 21h00.
 
 Contruindo redes de interação ecológica utilizando o CarniDIET (version 1.0), uma base contendo dados quantitativos sobre a dieta de mamíferos terrestres [(Middleton et al 2021).](https://doi.org/10.1111/geb.13296) 
 
