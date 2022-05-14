@@ -4,13 +4,13 @@ Contruindo redes de interação ecológica utilizando o CarniDIET (version 1.0),
 
 - [Código 1 `.R`](https://github.com/fblpalmeira/GEEQ/blob/main/data/Bipartite_carnidiet.R)
 
-- [Código 2 `.R`](https://github.com/fblpalmeira/jaguar_bipartite/blob/main/data/Ordernet.R)
+- [Código 2 `.R`](https://github.com/fblpalmeira/GEEQ/blob/main/data/Ordernet.R)
 
-- [Código 3 `.R`](https://github.com/fblpalmeira/jaguar_bipartite/blob/main/data/Entropy.R)
+- [Código 3 `.R`](https://github.com/fblpalmeira/GEEQ/blob/main/data/Entropy.R)
 
-- [Database 1 `.csv`](https://github.com/fblpalmeira/CarniDIET/blob/main/data/geb13296-sup-0011-carnidiet.csv)
+- [Database 1 `.csv`](https://github.com/fblpalmeira/GEEQ/blob/main/data/geb13296-sup-0011-carnidiet.csv)
 
-- [Database 2 `.csv`](https://github.com/fblpalmeira/CarniDIET/blob/main/data/geb13296-sup-0011-carnidiet2.csv)
+- [Database 2 `.csv`](https://github.com/fblpalmeira/GEEQ/blob/main/data/geb13296-sup-0011-carnidiet2.csv)
 
 # Vamos construir uma rede de interação bipartida. 
 
