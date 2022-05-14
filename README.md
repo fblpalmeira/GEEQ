@@ -2,7 +2,7 @@
 
 Contruindo redes de interação ecológica utilizando o CarniDIET (version 1.0), uma base de dados contendo dados quantitativos sobre a dieta de mamíferos terrestres [(Middleton et al 2021).](https://doi.org/10.1111/geb.13296) 
 
-- [Código 1 `.R`](https://github.com/fblpalmeira/CarniDIET/blob/main/data/30daychallenge_day23.R)
+- [Código 1 `.R`](https://github.com/fblpalmeira/GEEQ/blob/main/data/Bipartite_carnidiet.R)
 
 - [Código 2 `.R`](https://github.com/fblpalmeira/jaguar_bipartite/blob/main/data/Ordernet.R)
 
