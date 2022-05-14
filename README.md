@@ -1,6 +1,6 @@
 # GEEQ
 
-Contruindo uma rede de interação ecológica utilizando o CarniDIET (version 1.0), uma base de dados contendo dados quantitativos sobre a dieta de mamíferos terrestres [(Middleton et al 2021).](https://doi.org/10.1111/geb.13296) 
+Contruindo redes de interação ecológica utilizando o CarniDIET (version 1.0), uma base de dados contendo dados quantitativos sobre a dieta de mamíferos terrestres [(Middleton et al 2021).](https://doi.org/10.1111/geb.13296) 
 
 - [Código `.R`](https://github.com/fblpalmeira/CarniDIET/blob/main/data/30daychallenge_day23.R)
 
@@ -8,13 +8,13 @@ Contruindo uma rede de interação ecológica utilizando o CarniDIET (version 1.
 
 - [Database 2 `.csv`](https://github.com/fblpalmeira/CarniDIET/blob/main/data/geb13296-sup-0011-carnidiet2.csv)
 
-# Vamos construir uma rede de interação em forma de grid.
-
-<img src="https://github.com/fblpalmeira/CarniDIET/blob/main/data/felids_diet2.png">
-
-# Também vamos construir uma rede de interação bipartida. 
+# Vamos construir uma rede de interação bipartida. 
 
 <img src="https://github.com/fblpalmeira/GEEQ/blob/main/data/plotweb_carnidiet.png">
+
+# Também vamos construir uma rede de interação em forma de grid e, se der tempo, aprender a inserir as silhuetas dos animais :)
+
+<img src="https://github.com/fblpalmeira/CarniDIET/blob/main/data/felids_diet2.png">
 
 References: 
 
