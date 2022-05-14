@@ -14,7 +14,7 @@ Primeiro vamos construir uma rede de interação em forma de grid.
 
 Também vamos visualizar a rede de interação bipartida. 
 
-<img src="">
+<img src="https://github.com/fblpalmeira/GEEQ/blob/main/data/plotweb_carnidiet.png">
 
 References: 
 
