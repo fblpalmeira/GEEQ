@@ -2,6 +2,8 @@
 
 ## Workshop "Construindo redes de interações no R", dia 17/05/2022 das 19h00 às 21h00.
 
+<img src="https://github.com/fblpalmeira/GEEQ/blob/main/data/impresso.jpg">
+
 Contruindo redes de interação ecológica utilizando o CarniDIET (version 1.0), uma base contendo dados quantitativos sobre a dieta de mamíferos terrestres [(Middleton et al 2021).](https://doi.org/10.1111/geb.13296) 
 
 - [Código 1 `.R`](https://github.com/fblpalmeira/GEEQ/blob/main/data/Bipartite_carnidiet.R)
@@ -26,4 +28,4 @@ References:
 
 [Dormann CF, Fruend J, Gruber B. 2021.](http://cran.r-project.org/web/packages/bipartite/bipartite.pdf) Package ‘bipartite’. 
 
-[Middleton, O., Svensson, H., Scharlemann, J. P., Faurby, S., & Sandom, C. (2021).]( https://doi.org/10.1111/geb.13296) CarniDIET 1.0: A database of terrestrial carnivorous mammal diets. Global Ecology and Biogeography, 30(6), 1175-1182. https://doi.org/10.1111/geb.13296
+[Middleton, O., Svensson, H., Scharlemann, J. P., Faurby, S., & Sandom, C. (2021).](https://doi.org/10.1111/geb.13296) CarniDIET 1.0: A database of terrestrial carnivorous mammal diets. Global Ecology and Biogeography, 30(6), 1175-1182. https://doi.org/10.1111/geb.13296
