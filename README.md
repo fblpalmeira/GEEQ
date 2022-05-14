@@ -1,10 +1,14 @@
 # GEEQ - Grupo de Estudos em Ecologia Quantitativa
 
-## Workshop "Construindo redes de interações no R", dia 17/05/2022 das 19h00 às 21h00.
+## Workshop "Construindo redes de interações no R"
 
 <img src="https://github.com/fblpalmeira/GEEQ/blob/main/data/impresso.jpg" align="right" width = "500px"/>
 
 Contruindo redes de interação ecológica utilizando o CarniDIET (version 1.0), uma base contendo dados quantitativos sobre a dieta de mamíferos terrestres [(Middleton et al 2021).](https://doi.org/10.1111/geb.13296) O objetivo deste exercício é construir uma rede de interação bipartida utilizado o pacote ‘bipartite’ (Dormann et al 2021). Também será possível estimar o padrão de conectividade entre predadores e presas (interações observadas e possíveis), o grau de conectância e a sua distribuição, o quanto as espécies interagem, qual a força desta interação, como as interações se sobrepõem e se agrupam, qual o papel das espécies (espécies hub da rede, hub do módulo, conectoras e/ou periféricas) e quais os aspectos ecológicos mais importantes para a estrutura e a dinâmica da rede. 
+
+## Link do workshop no YouTube, dia 17/05/2022 das 19h00 às 21h00.
+
+[Canal do GEEQ no YouTube](https://youtu.be/VTemIrqlsqA)
 
 ## Material utilizado
 
