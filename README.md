@@ -26,9 +26,11 @@ Contruindo redes de interação ecológica utilizando o CarniDIET (version 1.0),
 
 Esta prática tem três etapas principais: 
 
-- Preparar os dados
-- Extrair as métricas e visualizar as redes
-- Inserir as silhuetas das espécies no gráfico 
+- Preparando os dados (Carregar, manipular e limpar o arquivo de dados);
+
+- Construindo redes (Extrair métricas e visualizar as redes de interações); e,
+ 
+- Inserindo silhuetas (Carregar as silhuetas das espécies e incorporar no gráfico).  
 
 ## Preparando os dados
 
