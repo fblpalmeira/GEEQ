@@ -12,11 +12,13 @@ Contruindo redes de interação ecológica utilizando o CarniDIET (version 1.0),
 
 ## Material utilizado
 
-- [Código 1 `.R`](https://github.com/fblpalmeira/GEEQ/blob/main/data/Bipartite_carnidiet.R)
+O [Código 1 - Bipartite `.R`](https://github.com/fblpalmeira/GEEQ/blob/main/data/Bipartite_carnidiet.R), é o nosso principal documento. Utilizando esse código é possível analisar e visualizar dados de redes ecológicas bipartidas. Ele também carrega automaticamente os outros dois códigos, que contêm funções para organizar a matriz de acordo com o grau das espécies [Código 2 - Ordernet `.R`](https://github.com/fblpalmeira/GEEQ/blob/main/data/Ordernet.R) e calcular a entropia [Código 3 - Entropy `.R`](https://github.com/fblpalmeira/GEEQ/blob/main/data/Entropy.R).
 
-- [Código 2 `.R`](https://github.com/fblpalmeira/GEEQ/blob/main/data/Ordernet.R)
+- [Código 1 - Bipartite `.R`](https://github.com/fblpalmeira/GEEQ/blob/main/data/Bipartite_carnidiet.R) 
 
-- [Código 3 `.R`](https://github.com/fblpalmeira/GEEQ/blob/main/data/Entropy.R)
+- [Código 2 - Ordernet `.R`](https://github.com/fblpalmeira/GEEQ/blob/main/data/Ordernet.R) 
+
+- [Código 3 - Entropy `.R`](https://github.com/fblpalmeira/GEEQ/blob/main/data/Entropy.R) 
 
 - [Database 1 `.csv`](https://github.com/fblpalmeira/GEEQ/blob/main/data/geb13296-sup-0011-carnidiet.csv)
 
