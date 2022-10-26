@@ -8,7 +8,7 @@ Contruindo redes de interação ecológica utilizando o CarniDIET (version 1.0),
 
 ## Link do workshop no YouTube, dia 17/05/2022 das 19h00 às 21h00.
 
-[Canal do GEEQ no YouTube](https://youtu.be/VTemIrqlsqA)
+[Canal do GEEQ no YouTube](https://www.youtube.com/watch?v=qL1YRt5FzKc&t=37s)
 
 ## Material utilizado
 
