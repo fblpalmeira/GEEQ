@@ -6,10 +6,6 @@
 
 Contruindo redes de interação ecológica utilizando o CarniDIET (version 1.0), uma base contendo dados quantitativos sobre a dieta de mamíferos terrestres [(Middleton et al 2021).](https://doi.org/10.1111/geb.13296) O objetivo desta prática será construir uma rede de interação bipartida utilizado o pacote ‘bipartite’ [(Dormann et al 2021).](http://cran.r-project.org/web/packages/bipartite/bipartite.pdf) Também será possível estimar o padrão de conectividade entre predadores e presas (interações observadas e possíveis), o grau de conectância e a sua distribuição, o quanto as espécies interagem, qual a força desta interação, como as interações se sobrepõem e se agrupam, qual o papel das espécies (espécies hub da rede, hub do módulo, conectoras e/ou periféricas) e quais os aspectos ecológicos mais importantes para a estrutura e a dinâmica da rede. 
 
-## Link do workshop no YouTube, dia 17/05/2022 das 19h00 às 21h00.
-
-[Canal do GEEQ no YouTube](https://www.youtube.com/watch?v=qL1YRt5FzKc&t=37s)
-
 ## Material utilizado
 
 O [Código 1 - Bipartite](https://github.com/fblpalmeira/GEEQ/blob/main/data/Bipartite_carnidiet.R), é o nosso principal documento. Utilizando esse código é possível analisar e visualizar dados de redes ecológicas bipartidas. Ele também carrega automaticamente os outros dois códigos, que contêm funções para organizar a matriz [Código 2 - Ordernet](https://github.com/fblpalmeira/GEEQ/blob/main/data/Ordernet.R) e calcular a entropia [Código 3 - Entropy](https://github.com/fblpalmeira/GEEQ/blob/main/data/Entropy.R).
@@ -311,3 +307,7 @@ image_write(out11, "carnidiet_grid2.png")
 [Dormann CF, Fruend J, Gruber B. 2021.](http://cran.r-project.org/web/packages/bipartite/bipartite.pdf) Package ‘bipartite’. 
 
 Middleton O, Svensson H, Scharlemann JP, Faurby S, Sandom C. 2021. CarniDIET 1.0: A database of terrestrial carnivorous mammal diets. Global Ecology and Biogeography, 30(6):1175-1182. https://doi.org/10.1111/geb.13296
+
+## Link do vídeo no YouTube
+
+[Vídeo no canal do GEEQ no YouTube](https://www.youtube.com/watch?v=qL1YRt5FzKc&t=37s)
