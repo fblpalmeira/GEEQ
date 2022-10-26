@@ -304,9 +304,9 @@ image_write(out11, "carnidiet_grid2.png")
 
 ## Referências: 
 
-[Dormann CF, Fruend J, Gruber B. 2021.](http://cran.r-project.org/web/packages/bipartite/bipartite.pdf) Package ‘bipartite’. 
+Dormann CF, Fruend J, Gruber B. 2021. [Package ‘bipartite’.](http://cran.r-project.org/web/packages/bipartite/bipartite.pdf)
 
-Middleton O, Svensson H, Scharlemann JP, Faurby S, Sandom C. 2021. CarniDIET 1.0: A database of terrestrial carnivorous mammal diets. Global Ecology and Biogeography, 30(6):1175-1182. https://doi.org/10.1111/geb.13296
+Middleton O, Svensson H, Scharlemann JP, Faurby S, Sandom C. 2021. [CarniDIET 1.0: A database of terrestrial carnivorous mammal diets](https://doi.org/10.1111/geb.13296). Global Ecology and Biogeography, 30(6):1175-1182.
 
 ## Link do vídeo no YouTube
 
